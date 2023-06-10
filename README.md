@@ -54,7 +54,7 @@ https://github.com/DachAnna/WikiMobile/assets/118796374/7923cf01-e06d-4a90-8580-
 
 | GitHub | Jenkins | Allure Report | Allure TestOps | Appium |
 |:------:|:----:|:----:|:------:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | < img src="https://github.com/murugka31/WikipediaAppTests/blob/main/img/appium-logo-png-transparent.png" width="40" height="40">
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | <img src="https://github.com/murugka31/WikipediaAppTests/blob/main/img/appium-logo-png-transparent.png" width="40" height="40">
 
 
 :arrow_right: <a target="_blank" href="https://github.com/DachAnna">github.com/DachAnna</a><br/>
