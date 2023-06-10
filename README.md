@@ -45,3 +45,16 @@ allure serve build/allure-results
 
 https://github.com/DachAnna/WikiMobile/assets/118796374/7923cf01-e06d-4a90-8580-e870d1e1d038
 
+## :point_right: Языки и инструменты
+<h3 align="left">Языки и инструменты, используемые в данном проекте </h3>
+
+| IntelliJ IDEA | Java | Gradle | Junit5 | 
+|:------:|:----:|:----:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> |
+
+| GitHub | Jenkins | Allure Report | Allure TestOps | Appium |
+|:------:|:----:|:----:|:------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Github.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Jenkins.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Allure_Report.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/AllureTestOps.png" width="40" height="40"> | < ![pngwing com](https://github.com/DachAnna/WikiMobile/assets/118796374/6c463165-4c34-4b8e-a123-0c28716f3e9f) width="40" height="40">
+
+
+:arrow_right: <a target="_blank" href="https://github.com/DachAnna">github.com/DachAnna</a><br/>
