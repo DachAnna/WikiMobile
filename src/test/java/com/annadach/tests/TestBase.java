@@ -17,7 +17,7 @@ import static io.qameta.allure.Allure.step;
 
 public class TestBase {
 
-    public static String deviceHost = System.getProperty("deviceHost", "emulator");
+    public static String deviceHost = System.getProperty("deviceHost", "browserstack");
 
     @BeforeAll
     public static void setup() {
