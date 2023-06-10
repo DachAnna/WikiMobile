@@ -15,10 +15,11 @@ public class SearchPage {
             inputField = $(MobileBy.id("org.wikipedia.alpha:id/search_src_text"));
 
     //Action
-    public void openSearchField () {
+    public void openSearchField() {
         searchField.click();
     }
-    public void setValue (String value) {
+
+    public void setValue(String value) {
         inputField.val(value);
     }
 
@@ -27,6 +28,7 @@ public class SearchPage {
         $$(MobileBy.id("org.wikipedia.alpha:id/page_list_item_title"))
                 .shouldHave(sizeGreaterThan(0));
     }
+
     public void checkUnsuccessfulResult() {
         $(MobileBy.id("org.wikipedia.alpha:id/results_text"))
                 .shouldHave(text("No results"));

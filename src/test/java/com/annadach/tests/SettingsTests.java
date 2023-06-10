@@ -10,9 +10,10 @@ import org.junit.jupiter.api.Test;
 
 import static com.annadach.tests.TestData.chosenLanguage;
 import static com.annadach.tests.TestData.originalLanguage;
+import static com.codeborne.selenide.Selenide.back;
 import static io.qameta.allure.Allure.step;
 
-public class SettingsTests extends TestBase{
+public class SettingsTests extends TestBase {
 
     @Test
     @AllureId("23380")
@@ -37,6 +38,7 @@ public class SettingsTests extends TestBase{
             settingsPage.chooseLanguage(chosenLanguage);
         });
         step("Убедиться, что язык добавлен в приложение", () -> {
+            back();
             settingsPage.checkChosenLanguage(originalLanguage, chosenLanguage);
         });
     }
