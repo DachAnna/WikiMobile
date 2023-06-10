@@ -18,7 +18,7 @@ public class SearchTests {
     @Test
     @AllureId("23377")
     @Feature("Поиск")
-    @Tags({@Tag("critical"), @Tag("Mobile-tests")})
+    @Tags({@Tag("critical"), @Tag("android")})
     @DisplayName("Позитивный поиск")
     void searchWithResultsTest() {
 

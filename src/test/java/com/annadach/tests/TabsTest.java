@@ -15,7 +15,7 @@ public class TabsTest extends TestBase{
     Tab tab = new Tab();
     @Test
     @AllureId("23379")
-    @Tags({@Tag("critical"), @Tag("Mobile-tests")})
+    @Tags({@Tag("critical"), @Tag("android")})
     @Feature("Табы")
     @DisplayName("Проверка наличия вкладок приложения")
     void checkTabsTest() {

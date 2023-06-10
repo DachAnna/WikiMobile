@@ -16,7 +16,7 @@ public class SettingsTests extends TestBase{
 
     @Test
     @AllureId("23380")
-    @Tags({@Tag("critical"), @Tag("Mobile-tests")})
+    @Tags({@Tag("critical"), @Tag("android")})
     @Feature("Настройки")
     @DisplayName("Добавление языка приложения")
     void changeAppLanguageTest() {
