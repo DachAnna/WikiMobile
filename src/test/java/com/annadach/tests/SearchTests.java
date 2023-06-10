@@ -12,7 +12,7 @@ import static com.annadach.tests.TestData.successfulValue;
 import static com.annadach.tests.TestData.unsuccessfulValue;
 import static io.qameta.allure.Allure.step;
 
-public class SearchTests {
+public class SearchTests extends TestBase{
 
     SearchPage searchPage = new SearchPage();
     @Test
