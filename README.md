@@ -5,7 +5,7 @@
 - сервис browserstack
 - эмулятор Android Studio
 - реальное устройство
-- 
+  
 ## :point_right: Проект в Allure TestOps с автотестами с результатами их прохождения.
 <a target="_blank" href="https://allure.autotests.cloud/project/2297/dashboards">Проект в Allure TestOps</a>
 
