@@ -49,9 +49,9 @@ https://github.com/DachAnna/WikiMobile/assets/118796374/7923cf01-e06d-4a90-8580-
 ## :point_right: Языки и инструменты
 <h3 align="left">Языки и инструменты, используемые в данном проекте </h3>
 
-| IntelliJ IDEA | Java | Gradle | Junit5 | 
-|:------:|:----:|:----:|:------:|
-| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> |
+| IntelliJ IDEA | Java | Gradle | Junit5 | Selenide | 
+|:------:|:----:|:----:|:------:|:------:|
+| <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Intelij_IDEA.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Java.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Gradle.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/JUnit5.png" width="40" height="40"> | <img src="https://github.com/Roman-1990/bip-test/blob/master/img/logo/Selenide.png" width="40" height="40"> |
 
 | GitHub | Jenkins | Allure Report | Allure TestOps | Appium |
 |:------:|:----:|:----:|:------:|:------:|
